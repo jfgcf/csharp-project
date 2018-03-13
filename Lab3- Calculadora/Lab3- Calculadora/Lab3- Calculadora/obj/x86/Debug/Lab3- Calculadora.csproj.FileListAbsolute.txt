@@ -1,0 +1,7 @@
+C:\Users\alunos\Desktop\Lab3- Calculadora\Lab3- Calculadora\obj\x86\Debug\Lab3__Calculadora.Form1.resources
+C:\Users\alunos\Desktop\Lab3- Calculadora\Lab3- Calculadora\obj\x86\Debug\Lab3__Calculadora.Properties.Resources.resources
+C:\Users\alunos\Desktop\Lab3- Calculadora\Lab3- Calculadora\obj\x86\Debug\Lab3- Calculadora.csproj.GenerateResource.Cache
+C:\Users\alunos\Desktop\Lab3- Calculadora\Lab3- Calculadora\bin\Debug\Lab3- Calculadora.exe
+C:\Users\alunos\Desktop\Lab3- Calculadora\Lab3- Calculadora\bin\Debug\Lab3- Calculadora.pdb
+C:\Users\alunos\Desktop\Lab3- Calculadora\Lab3- Calculadora\obj\x86\Debug\Lab3- Calculadora.exe
+C:\Users\alunos\Desktop\Lab3- Calculadora\Lab3- Calculadora\obj\x86\Debug\Lab3- Calculadora.pdb
